@@ -1,0 +1,61 @@
+body {
+  font-family: "Comfortaa", sans-serif;
+  background-color: #C4DAD2;
+  margin: 0;
+}
+
+header {
+  background-color: #16423C;
+  padding: 35px;
+  margin: 10px; 
+  border-radius: 80px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.418);
+}
+
+h1 {
+  margin-top: 0px;
+  text-align: center;
+  color: #E9EFEC;
+}
+
+
+h2 {
+  color: #16423C;
+  margin: 0px;
+  text-align: center;
+  border: solid #16423C;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 150px;
+  justify-content: center;
+}
+
+ul, li, a{
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 0 10px;
+  color: #E9EFEC;
+  text-decoration: none;
+}
+
+.contacto, .aboutme {
+  border-radius: 150px;
+  border: solid #6A9C89;
+  padding: 10px;
+}
+
+img {
+  width: 400px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.418);
+}
+
+.movie {
+  float: left;
+  margin-left: 450px;
+}
+
+.birthday {
+  float: right;
+  margin-right: 450px;
+}
